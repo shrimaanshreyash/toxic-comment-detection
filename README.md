@@ -30,11 +30,6 @@ toxic_detection_project/
 │   └── processed/              # Cleaned and processed data
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb
-│   ├── 02_preprocessing_eda.ipynb
-│   ├── 03_pattern_recognition.ipynb
-│   ├── 04_detection_framework.ipynb
-│   ├── 05_insights_analysis.ipynb
-│   └── 06_visualization_dashboard.ipynb
 ├── src/
 │   ├── __init__.py
 │   ├── data_loader.py         # Data loading utilities
@@ -48,7 +43,7 @@ toxic_detection_project/
 │   ├── reports/               # Analysis reports
 │   └── metrics/               # Performance metrics
 ├── tests/
-│   └── test_detector.py       # Unit tests
+  │   └── test_detector.py       # Unit tests
 ├── requirements.txt           # Python dependencies
 ├── .gitignore
 └── README.md
@@ -205,9 +200,7 @@ MIT License - See LICENSE file for details
 ## Contact
 
 **Shreyas** | Data Science Student
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
-- Email: [Your Email]
+- LinkedIn: [www.linkedin.com/in/srimaan-shreyas-4ba22836a]
 
 ## Acknowledgments
 
