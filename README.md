@@ -34,16 +34,12 @@ toxic_detection_project/
 │   ├── __init__.py
 │   ├── data_loader.py         # Data loading utilities
 │   ├── preprocessor.py        # Text preprocessing
-│   ├── feature_extractor.py   # Feature engineering
 │   ├── detector.py            # Main detection framework
 │   ├── pattern_analyzer.py    # Pattern recognition
-│   └── visualizer.py          # Visualization utilities
 ├── results/
 │   ├── figures/               # Generated charts
 │   ├── reports/               # Analysis reports
 │   └── metrics/               # Performance metrics
-├── tests/
-  │   └── test_detector.py       # Unit tests
 ├── requirements.txt           # Python dependencies
 ├── .gitignore
 └── README.md
